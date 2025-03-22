@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Akshu",
+        "phone": "9483891930",
+        "email": "akshata@gmail.com",
+        "address": "mysore"
+    },
+    {
+        "id": 2,
+        "name": "Kavana",
+        "phone": "7975523453",
+        "email": "kavana@gmail.com",
+        "address": "Shimoga"
+    }
+]

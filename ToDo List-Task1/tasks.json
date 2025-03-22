@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Finish Assignment",
+        "description": "Complete the math assignment",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2025-03-18",
+        "history": [
+            "Task added at 2025-03-17 10:00:00"
+        ]
+    },
+    {
+        "title": "Fix Bugs in Code",
+        "description": "Debug and test the update task function",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-03-19",
+        "history": [
+            "Task added at 2025-03-17 12:49:33"
+        ]
+    },
+    {
+        "title": "Buy Groceries",
+        "description": "Milk, eggs, bread",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2025-03-20",
+        "history": [
+            "Task added at 2025-03-17 11:00:00"
+        ]
+    },
+    {
+        "title": "Read Self-Development Book",
+        "description": "Read 10 pages of Atomic Habits",
+        "completed": false,
+        "priority": "High",
+        "due_date": "2025-03-21",
+        "history": [
+            "Task added at 2025-03-17 12:50:33"
+        ]
+    }
+]
